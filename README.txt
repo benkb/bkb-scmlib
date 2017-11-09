@@ -1,3 +1,4 @@
 bkb-scmlib
 
-utilities for Scheme implementations with 
+(type safe?) Utilities for Scheme implementations.
+
